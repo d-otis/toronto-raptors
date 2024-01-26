@@ -43,13 +43,21 @@ const getPlayerIds = async () => {
   const playerIds = allRaptorsPlayers.map(player => player.id);
 
   try {
-    fs.writeFileSync("players.json", JSON.stringify(allRaptorsPlayers));
-    console.log("file written successfully!");
+    fs.writeFileSync(
+      "players.json",
+      JSON.stringify({ data: { players: allRaptorsPlayers } })
+    );
+    console.log("players file written successfully!");
   } catch (err) {
     console.error(err);
   }
 
-  console.log({ playerIds });
+  try {
+    fs.writeFileSync("playerIds.json", JSON.stringify({ data: { playerIds } }));
+    console.log("playerIds file written successfully!");
+  } catch (error) {
+    console.error({ error });
+  }
 };
 
 getPlayerIds();
