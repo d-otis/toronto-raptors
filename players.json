@@ -1,1478 +1,1482 @@
-[
-  {
-    "id": 71,
-    "first_name": "Lorenzo",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Brown",
-    "position": "G",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 960,
-    "first_name": "Damon",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Stoudamire",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 961,
-    "first_name": "Jimmy",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "King",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 989,
-    "first_name": "Vincenzo",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Esposito",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 998,
-    "first_name": "Martin",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Lewis",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 999,
-    "first_name": "Dwayne",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Whitfield",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1016,
-    "first_name": "Marcus",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Camby",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1017,
-    "first_name": "Donald",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Whiteside",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1087,
-    "first_name": "Tracy",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "McGrady",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1088,
-    "first_name": "Chris",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Garner",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1130,
-    "first_name": "Ed",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Stokes",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1166,
-    "first_name": "Mark",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Baker",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1167,
-    "first_name": "Sean",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Marks",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1231,
-    "first_name": "Aleksandar",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Radojevic",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1303,
-    "first_name": "Morris",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Peterson",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1316,
-    "first_name": "Garth",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Joseph",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1330,
-    "first_name": "Mamadou",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "N'diaye",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1349,
-    "first_name": "Carlos",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Arroyo",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1350,
-    "first_name": "Michael",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Bradley",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1420,
-    "first_name": "Nate",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Huffman",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1421,
-    "first_name": "Chris",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Jefferies",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1482,
-    "first_name": "Chris",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Bosh",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1549,
-    "first_name": "Rafael",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Araujo",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1550,
-    "first_name": "Matt",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Bonner",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1566,
-    "first_name": "Pape",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Sow",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1626,
-    "first_name": "Joey",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Graham",
-    "position": "F",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1627,
-    "first_name": "Charlie",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Villanueva",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1699,
-    "first_name": "Jorge",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Garbajosa",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1700,
-    "first_name": "Andrea",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Bargnani",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1722,
-    "first_name": "Uros",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Slokar",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1769,
-    "first_name": "Jamario",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Moon",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1815,
-    "first_name": "Roko",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Ukic",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1829,
-    "first_name": "Nathan",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Jawai",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 1909,
-    "first_name": "Solomon",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Alabi",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 2020,
-    "first_name": "Quincy",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Acy",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 2034,
-    "first_name": "Dwight",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Buycks",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 2085,
-    "first_name": "Lucas",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Nogueira",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 279,
-    "first_name": "Jeremy",
-    "height_feet": 6,
-    "height_inches": 3,
-    "last_name": "Lin",
-    "position": "G",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": 200
-  },
-  {
-    "id": 287,
-    "first_name": "Jordan",
-    "height_feet": 6,
-    "height_inches": 4,
-    "last_name": "Loyd",
-    "position": "G",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": 210
-  },
-  {
-    "id": 121,
-    "first_name": "Sam",
-    "height_feet": 6,
-    "height_inches": 9,
-    "last_name": "Dekker",
-    "position": "F",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": 230
-  },
-  {
-    "id": 311,
-    "first_name": "Jodie",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Meeks",
-    "position": "G",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 666702,
-    "first_name": "Sagaba",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Konate",
-    "position": "F",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 666847,
-    "first_name": "Shamorie",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Ponds",
-    "position": "G",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 2190,
-    "first_name": "Isaiah",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Taylor",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 17895914,
-    "first_name": "Matt",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Morgan",
-    "position": "G",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 4196812,
-    "first_name": "DeeAndre",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Hulett",
-    "position": "G-F",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 409,
-    "first_name": "Dennis",
-    "height_feet": 6,
-    "height_inches": 1,
-    "last_name": "Schroder",
-    "position": "G",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": 172
-  },
-  {
-    "id": 143,
-    "first_name": "Henry",
-    "height_feet": 6,
-    "height_inches": 11,
-    "last_name": "Ellenson",
-    "position": "F",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": 245
-  },
-  {
-    "id": 17895730,
-    "first_name": "Anas",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Mahmoud",
-    "position": "C",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 17895731,
-    "first_name": "Isiaha",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Mike",
-    "position": "F",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 666393,
-    "first_name": "Jalen",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Adams",
-    "position": "G",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 17895992,
-    "first_name": "Rayshaun",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Hammonds",
-    "position": "F",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 17896098,
-    "first_name": "Zaccheus",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Darko-Kelly",
-    "position": "G-F",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 35,
-    "first_name": "Aron",
-    "height_feet": 6,
-    "height_inches": 10,
-    "last_name": "Baynes",
-    "position": "C-F",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": 260
-  },
-  {
-    "id": 2158,
-    "first_name": "Patrick",
-    "height_feet": 6,
-    "height_inches": 7,
-    "last_name": "McCaw",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": 185
-  },
-  {
-    "id": 3547278,
-    "first_name": "Ashton",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Hagans",
-    "position": "G-F",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 3547263,
-    "first_name": "Daniel",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Oturu",
-    "position": "C",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 3547292,
-    "first_name": "Jalen",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Harris",
-    "position": "G",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 484,
-    "first_name": "D.J.",
-    "height_feet": 6,
-    "height_inches": 10,
-    "last_name": "Wilson",
-    "position": "F",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": 231
-  },
-  {
-    "id": 17553988,
-    "first_name": "Jeff",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Dowtin",
-    "position": "G",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 56,
-    "first_name": "Isaac",
-    "height_feet": 6,
-    "height_inches": 8,
-    "last_name": "Bonga",
-    "position": "G",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": 180
-  },
-  {
-    "id": 17896020,
-    "first_name": "David",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Johnson",
-    "position": "G",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 666762,
-    "first_name": "Jalen",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "McDaniels",
-    "position": "F",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 206,
-    "first_name": "Juancho",
-    "height_feet": 6,
-    "height_inches": 9,
-    "last_name": "Hernangomez",
-    "position": "F",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": 230
-  },
-  {
-    "id": 58,
-    "first_name": "Chris",
-    "height_feet": 6,
-    "height_inches": 10,
-    "last_name": "Boucher",
-    "position": "F",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": 200
-  },
-  {
-    "id": 3089,
-    "first_name": "Gary",
-    "height_feet": 6,
-    "height_inches": 6,
-    "last_name": "Trent Jr.",
-    "position": "",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": 205
-  },
-  {
-    "id": 3547275,
-    "first_name": "Malachi",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Flynn",
-    "position": "G",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 31,
-    "first_name": "Will",
-    "height_feet": 6,
-    "height_inches": 6,
-    "last_name": "Barton",
-    "position": "G",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": 190
-  },
-  {
-    "id": 17896055,
-    "first_name": "Scottie",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Barnes",
-    "position": "G-F",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 489,
-    "first_name": "Thaddeus",
-    "height_feet": 6,
-    "height_inches": 8,
-    "last_name": "Young",
-    "position": "F",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": 221
-  },
-  {
-    "id": 436,
-    "first_name": "Garrett",
-    "height_feet": 6,
-    "height_inches": 6,
-    "last_name": "Temple",
-    "position": "G-F",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": 195
-  },
-  {
-    "id": 18,
-    "first_name": "OG",
-    "height_feet": 6,
-    "height_inches": 8,
-    "last_name": "Anunoby",
-    "position": "F",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": 232
-  },
-  {
-    "id": 56677828,
-    "first_name": "Gradey",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Dick",
-    "position": "G",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 376,
-    "first_name": "Otto",
-    "height_feet": 6,
-    "height_inches": 8,
-    "last_name": "Porter Jr.",
-    "position": "F",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": 198
-  },
-  {
-    "id": 3547249,
-    "first_name": "Precious",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Achiuwa",
-    "position": "F",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 17896064,
-    "first_name": "Joe",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Wieskamp",
-    "position": "G-F",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 56677869,
-    "first_name": "Markquis",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Nowell",
-    "position": "G",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 38017717,
-    "first_name": "Ron",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Harper Jr.",
-    "position": "F",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 56677805,
-    "first_name": "Javon",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Freeman-Liberty",
-    "position": "G",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
-  },
-  {
-    "id": 373,
-    "first_name": "Jakob",
-    "height_feet": 7,
-    "height_inches": 0,
-    "last_name": "Poeltl",
-    "position": "C",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": 230
-  },
-  {
-    "id": 416,
-    "first_name": "Pascal",
-    "height_feet": 6,
-    "height_inches": 9,
-    "last_name": "Siakam",
-    "position": "F",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": 230
-  },
-  {
-    "id": 38017710,
-    "first_name": "Christian",
-    "height_feet": null,
-    "height_inches": null,
-    "last_name": "Koloko",
-    "position": "C",
-    "team": {
-      "id": 28,
-      "abbreviation": "TOR",
-      "city": "Toronto",
-      "conference": "East",
-      "division": "Atlantic",
-      "full_name": "Toronto Raptors",
-      "name": "Raptors"
-    },
-    "weight_pounds": null
+{
+  "data": {
+    "players": [
+      {
+        "id": 71,
+        "first_name": "Lorenzo",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Brown",
+        "position": "G",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 960,
+        "first_name": "Damon",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Stoudamire",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 961,
+        "first_name": "Jimmy",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "King",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 989,
+        "first_name": "Vincenzo",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Esposito",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 998,
+        "first_name": "Martin",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Lewis",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 999,
+        "first_name": "Dwayne",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Whitfield",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1016,
+        "first_name": "Marcus",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Camby",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1017,
+        "first_name": "Donald",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Whiteside",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1087,
+        "first_name": "Tracy",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "McGrady",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1088,
+        "first_name": "Chris",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Garner",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1130,
+        "first_name": "Ed",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Stokes",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1166,
+        "first_name": "Mark",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Baker",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1167,
+        "first_name": "Sean",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Marks",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1231,
+        "first_name": "Aleksandar",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Radojevic",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1303,
+        "first_name": "Morris",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Peterson",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1316,
+        "first_name": "Garth",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Joseph",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1330,
+        "first_name": "Mamadou",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "N'diaye",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1349,
+        "first_name": "Carlos",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Arroyo",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1350,
+        "first_name": "Michael",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Bradley",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1420,
+        "first_name": "Nate",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Huffman",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1421,
+        "first_name": "Chris",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Jefferies",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1482,
+        "first_name": "Chris",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Bosh",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1549,
+        "first_name": "Rafael",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Araujo",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1550,
+        "first_name": "Matt",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Bonner",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1566,
+        "first_name": "Pape",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Sow",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1626,
+        "first_name": "Joey",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Graham",
+        "position": "F",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1627,
+        "first_name": "Charlie",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Villanueva",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1699,
+        "first_name": "Jorge",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Garbajosa",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1700,
+        "first_name": "Andrea",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Bargnani",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1722,
+        "first_name": "Uros",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Slokar",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1769,
+        "first_name": "Jamario",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Moon",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1815,
+        "first_name": "Roko",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Ukic",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1829,
+        "first_name": "Nathan",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Jawai",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 1909,
+        "first_name": "Solomon",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Alabi",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 2020,
+        "first_name": "Quincy",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Acy",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 2034,
+        "first_name": "Dwight",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Buycks",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 2085,
+        "first_name": "Lucas",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Nogueira",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 279,
+        "first_name": "Jeremy",
+        "height_feet": 6,
+        "height_inches": 3,
+        "last_name": "Lin",
+        "position": "G",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": 200
+      },
+      {
+        "id": 287,
+        "first_name": "Jordan",
+        "height_feet": 6,
+        "height_inches": 4,
+        "last_name": "Loyd",
+        "position": "G",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": 210
+      },
+      {
+        "id": 121,
+        "first_name": "Sam",
+        "height_feet": 6,
+        "height_inches": 9,
+        "last_name": "Dekker",
+        "position": "F",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": 230
+      },
+      {
+        "id": 311,
+        "first_name": "Jodie",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Meeks",
+        "position": "G",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 666702,
+        "first_name": "Sagaba",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Konate",
+        "position": "F",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 666847,
+        "first_name": "Shamorie",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Ponds",
+        "position": "G",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 2190,
+        "first_name": "Isaiah",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Taylor",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 17895914,
+        "first_name": "Matt",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Morgan",
+        "position": "G",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 4196812,
+        "first_name": "DeeAndre",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Hulett",
+        "position": "G-F",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 409,
+        "first_name": "Dennis",
+        "height_feet": 6,
+        "height_inches": 1,
+        "last_name": "Schroder",
+        "position": "G",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": 172
+      },
+      {
+        "id": 143,
+        "first_name": "Henry",
+        "height_feet": 6,
+        "height_inches": 11,
+        "last_name": "Ellenson",
+        "position": "F",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": 245
+      },
+      {
+        "id": 17895730,
+        "first_name": "Anas",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Mahmoud",
+        "position": "C",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 17895731,
+        "first_name": "Isiaha",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Mike",
+        "position": "F",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 666393,
+        "first_name": "Jalen",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Adams",
+        "position": "G",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 17895992,
+        "first_name": "Rayshaun",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Hammonds",
+        "position": "F",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 17896098,
+        "first_name": "Zaccheus",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Darko-Kelly",
+        "position": "G-F",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 35,
+        "first_name": "Aron",
+        "height_feet": 6,
+        "height_inches": 10,
+        "last_name": "Baynes",
+        "position": "C-F",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": 260
+      },
+      {
+        "id": 2158,
+        "first_name": "Patrick",
+        "height_feet": 6,
+        "height_inches": 7,
+        "last_name": "McCaw",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": 185
+      },
+      {
+        "id": 3547278,
+        "first_name": "Ashton",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Hagans",
+        "position": "G-F",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 3547263,
+        "first_name": "Daniel",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Oturu",
+        "position": "C",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 3547292,
+        "first_name": "Jalen",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Harris",
+        "position": "G",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 484,
+        "first_name": "D.J.",
+        "height_feet": 6,
+        "height_inches": 10,
+        "last_name": "Wilson",
+        "position": "F",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": 231
+      },
+      {
+        "id": 17553988,
+        "first_name": "Jeff",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Dowtin",
+        "position": "G",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 56,
+        "first_name": "Isaac",
+        "height_feet": 6,
+        "height_inches": 8,
+        "last_name": "Bonga",
+        "position": "G",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": 180
+      },
+      {
+        "id": 17896020,
+        "first_name": "David",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Johnson",
+        "position": "G",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 666762,
+        "first_name": "Jalen",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "McDaniels",
+        "position": "F",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 206,
+        "first_name": "Juancho",
+        "height_feet": 6,
+        "height_inches": 9,
+        "last_name": "Hernangomez",
+        "position": "F",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": 230
+      },
+      {
+        "id": 58,
+        "first_name": "Chris",
+        "height_feet": 6,
+        "height_inches": 10,
+        "last_name": "Boucher",
+        "position": "F",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": 200
+      },
+      {
+        "id": 3089,
+        "first_name": "Gary",
+        "height_feet": 6,
+        "height_inches": 6,
+        "last_name": "Trent Jr.",
+        "position": "",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": 205
+      },
+      {
+        "id": 3547275,
+        "first_name": "Malachi",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Flynn",
+        "position": "G",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 31,
+        "first_name": "Will",
+        "height_feet": 6,
+        "height_inches": 6,
+        "last_name": "Barton",
+        "position": "G",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": 190
+      },
+      {
+        "id": 17896055,
+        "first_name": "Scottie",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Barnes",
+        "position": "G-F",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 489,
+        "first_name": "Thaddeus",
+        "height_feet": 6,
+        "height_inches": 8,
+        "last_name": "Young",
+        "position": "F",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": 221
+      },
+      {
+        "id": 436,
+        "first_name": "Garrett",
+        "height_feet": 6,
+        "height_inches": 6,
+        "last_name": "Temple",
+        "position": "G-F",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": 195
+      },
+      {
+        "id": 18,
+        "first_name": "OG",
+        "height_feet": 6,
+        "height_inches": 8,
+        "last_name": "Anunoby",
+        "position": "F",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": 232
+      },
+      {
+        "id": 56677828,
+        "first_name": "Gradey",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Dick",
+        "position": "G",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 376,
+        "first_name": "Otto",
+        "height_feet": 6,
+        "height_inches": 8,
+        "last_name": "Porter Jr.",
+        "position": "F",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": 198
+      },
+      {
+        "id": 3547249,
+        "first_name": "Precious",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Achiuwa",
+        "position": "F",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 17896064,
+        "first_name": "Joe",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Wieskamp",
+        "position": "G-F",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 56677869,
+        "first_name": "Markquis",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Nowell",
+        "position": "G",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 38017717,
+        "first_name": "Ron",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Harper Jr.",
+        "position": "F",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 56677805,
+        "first_name": "Javon",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Freeman-Liberty",
+        "position": "G",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      },
+      {
+        "id": 373,
+        "first_name": "Jakob",
+        "height_feet": 7,
+        "height_inches": 0,
+        "last_name": "Poeltl",
+        "position": "C",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": 230
+      },
+      {
+        "id": 416,
+        "first_name": "Pascal",
+        "height_feet": 6,
+        "height_inches": 9,
+        "last_name": "Siakam",
+        "position": "F",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": 230
+      },
+      {
+        "id": 38017710,
+        "first_name": "Christian",
+        "height_feet": null,
+        "height_inches": null,
+        "last_name": "Koloko",
+        "position": "C",
+        "team": {
+          "id": 28,
+          "abbreviation": "TOR",
+          "city": "Toronto",
+          "conference": "East",
+          "division": "Atlantic",
+          "full_name": "Toronto Raptors",
+          "name": "Raptors"
+        },
+        "weight_pounds": null
+      }
+    ]
   }
-]
+}
