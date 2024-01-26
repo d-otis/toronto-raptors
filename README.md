@@ -1,6 +1,7 @@
 # 🏀🇨🇦 Toronto Raptors Party! 🏀🇨🇦
 
 ```
+npm install
 node main.js
 ```
 
