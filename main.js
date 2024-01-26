@@ -34,7 +34,7 @@ const getPlayerIds = async () => {
   while (nextPage) {
     console.log(
       `getting page: ${nextPage} |`,
-      ` ${allRaptorsPlayers.length} players have been added to the array`
+      ` ${allRaptorsPlayers.length} players have been collected in the array`
     );
 
     await getPage(nextPage);
