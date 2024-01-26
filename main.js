@@ -1,7 +1,7 @@
 const axios = require("axios");
 const fs = require("node:fs");
 
-const getPlayerIds = async () => {
+const getPlayerData = async () => {
   let nextPage = 1;
   const allRaptorsPlayers = [];
 
@@ -60,4 +60,4 @@ const getPlayerIds = async () => {
   }
 };
 
-getPlayerIds();
+getPlayerData();
