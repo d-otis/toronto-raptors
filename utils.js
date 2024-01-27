@@ -23,7 +23,7 @@ const getPage = async config => {
   }
 };
 
-const generateConfig = (url, page) => {
+const generateAxiosConfig = (url, page) => {
   return {
     url: url,
     params: {
@@ -34,4 +34,4 @@ const generateConfig = (url, page) => {
   };
 };
 
-module.exports = { saveFile, getPage, generateConfig };
+module.exports = { saveFile, getPage, generateAxiosConfig };

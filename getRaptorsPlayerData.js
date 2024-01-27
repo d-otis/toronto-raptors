@@ -1,4 +1,4 @@
-const { saveFile, getPage, generateConfig } = require("./utils");
+const { saveFile, getPage, generateAxiosConfig } = require("./utils");
 
 const getPlayerData = async () => {
   const playersUrl = "https://www.balldontlie.io/api/v1/players";
@@ -9,7 +9,7 @@ const getPlayerData = async () => {
     console.log(`getting page: ${nextPage}`);
 
     const { response, meta } = await getPage(
-      generateConfig(playersUrl, nextPage)
+      generateAxiosConfig(playersUrl, nextPage)
     );
     const players = response.data.data;
     const raptorPlayers = players.filter(player => player.team.id == 28);
