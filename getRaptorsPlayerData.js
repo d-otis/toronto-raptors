@@ -5,6 +5,10 @@ const getPlayerData = async () => {
   let nextPage = 1;
   const allRaptorsPlayers = [];
 
+  // 1. hitting the API
+  // 2. pushing onto a results array
+  // 3. repeat (until end of pagination)
+
   const getPage = async page => {
     const config = {
       url: "https://www.balldontlie.io/api/v1/players",
