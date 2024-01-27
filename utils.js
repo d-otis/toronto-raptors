@@ -23,12 +23,13 @@ const getPage = async config => {
   }
 };
 
-const generateAxiosConfig = (url, page) => {
+const generateAxiosConfig = (url, page, additionalParams = {}) => {
   return {
     url: url,
     params: {
       per_page: 100,
       page: page,
+      ...additionalParams,
     },
     method: "get",
   };
