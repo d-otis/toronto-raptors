@@ -1,16 +1,5 @@
 const axios = require("axios");
-const fs = require("node:fs");
-
-const saveFile = async (data, key, filename) => {
-  const jsonString = JSON.stringify({ data: { [key]: data } });
-
-  try {
-    fs.writeFileSync(filename, jsonString);
-    console.log(`${filename} file written successfully!`);
-  } catch (err) {
-    console.error(err);
-  }
-};
+const { saveFile } = require("./utils");
 
 const getPlayerData = async () => {
   let nextPage = 1;
@@ -53,8 +42,23 @@ const getPlayerData = async () => {
 
   const playerIds = allRaptorsPlayers.map(player => player.id);
 
-  saveFile(allRaptorsPlayers, "players", "players.json");
-  saveFile(playerIds, "player_ids", "playerIds.json");
+  const filesConfig = [
+    {
+      collection: allRaptorsPlayers,
+      key: "players",
+      filename: "players.json",
+    },
+    {
+      collection: playerIds,
+      key: "players",
+      filename: "playerIds.json",
+    },
+  ];
+
+  for (const file of filesConfig) {
+    const { collection, key, filename } = file;
+    saveFile(collection, key, filename);
+  }
 };
 
 getPlayerData();
