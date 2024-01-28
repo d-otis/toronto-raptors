@@ -33,7 +33,7 @@ const getPlayerData = async () => {
     },
     {
       collection: playerIds,
-      key: "players",
+      key: "players_ids",
       filename: "playerIds.json",
     },
   ];
