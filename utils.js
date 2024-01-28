@@ -1,4 +1,4 @@
-const { writeFileSync } = require("node:fs");
+const { writeFileSync, readFileSync } = require("node:fs");
 const axios = require("axios");
 
 const saveFile = async (data, key, filename) => {
@@ -9,6 +9,17 @@ const saveFile = async (data, key, filename) => {
     console.log(`${filename} file written successfully!`);
   } catch (err) {
     console.error(err);
+  }
+};
+
+const readFile = async filename => {
+  try {
+    const contents = await readFileSync(filename, {
+      encoding: "utf-8",
+    });
+    return contents;
+  } catch (error) {
+    console.error({ error });
   }
 };
 
@@ -35,4 +46,4 @@ const generateAxiosConfig = (url, page, additionalParams = {}) => {
   };
 };
 
-module.exports = { saveFile, getPage, generateAxiosConfig };
+module.exports = { saveFile, readFile, getPage, generateAxiosConfig };
